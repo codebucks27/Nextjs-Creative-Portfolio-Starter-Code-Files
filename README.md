@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+### 3d Models From:
+
+- Wizard Boy - https://sketchfab.com/3d-models/tim-mckee-boy-wizard-900beec6d3504d51ade81cb5c052163b
+
+- Wizard Hat - https://sketchfab.com/3d-models/stylized-wizard-hat-f59021d602334367987bcd7657cec722
+
+- Wizard Staff - https://sketchfab.com/3d-models/wizard-staff-873f596fb3cc44998cb75a3dce60181f
