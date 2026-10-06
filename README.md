@@ -97,3 +97,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Other project
+
+I also built SmartHeadshots, a separate hosted product for [professional headshots for your portfolio](https://www.smartheadshots.ai/professional-headshots).
