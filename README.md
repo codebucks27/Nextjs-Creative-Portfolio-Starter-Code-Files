@@ -98,6 +98,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Other project
+## Other projects
 
 I also built SmartHeadshots, a separate hosted product for [professional headshots for your portfolio](https://www.smartheadshots.ai/professional-headshots).
+
+You can also explore my [AI interior design app](https://www.airoomdesignapp.com), AI Room Design.
